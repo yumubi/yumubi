@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumubi&layout=compact)](https://github.com/yumubi/github-readme-stats)
-![java哥](https://tikolu.net/i/pttuv)
 
-### 在下不配了！
+![伞兵才会去开发Java[doge]](https://tikolu.net/i/pttuv)
+
+### 菜鸡瑟瑟发抖
 <!-- ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
