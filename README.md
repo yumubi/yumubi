@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![java哥](https://tikolu.net/i/pttuv)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumubi&layout=compact)](https://github.com/yumubi/github-readme-stats)
+### 在下不配了！
 <!-- ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
@@ -22,4 +25,3 @@ Here are some ideas to get you started:
 <!-- ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/yumubi/LeetCode-Daily)
 ![GitHub last commit](https://img.shields.io/github/last-commit/yumubi/LeetCode-Daily) -->
 
-没什么营养啊！
