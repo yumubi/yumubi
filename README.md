@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumubi&layout=compact)](https://github.com/yumubi/github-readme-stats)
-![伞兵才会去开发Java[doge]](https://tikolu.net/i/ovxxt)
 
 ### 菜鸡瑟瑟发抖
 <!-- ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
