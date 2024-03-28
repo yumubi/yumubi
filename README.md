@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  好久没写Kotlin了QAQ
+  Oops!
 </p>
 
