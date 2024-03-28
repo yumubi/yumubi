@@ -20,6 +20,3 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=java,kotlin,js&theme=light"/>
   </a>
 </p>
-
-
-
