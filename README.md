@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,js&theme=light)](https://skillicons.dev)
 
 
