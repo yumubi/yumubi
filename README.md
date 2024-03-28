@@ -14,9 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <a href="https://skillicons.dev">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumubi&layout=compact"/>
+  </a>
+</p>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,kotlin,js&theme=light"/>
+   
   </a>
 </p>
+
+<p align="center">
+  好久没写Kotlin了QAQ
+</p>
+
